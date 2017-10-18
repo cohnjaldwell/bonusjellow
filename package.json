@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/caldwelljs/bonusjellow/issues"
   },
-  "homepage": "https://github.com/caldwelljs/bonusjellow#readme"
+  "homepage": "https://github.com/caldwelljs/bonusjellow#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
 }
