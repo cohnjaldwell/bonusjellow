@@ -1,4 +1,5 @@
 {
+    "current_theme": "Sydney",
     "theme_mods_sydney": "a:11:{i:0;b:0;s:18:\"custom_css_post_id\";i:-1;s:18:\"nav_menu_locations\";a:1:{s:7:\"primary\";i:2;}s:14:\"slider_image_1\";s:63:\"http:\/\/localhost:8888\/wp-content\/uploads\/2017\/11\/jello-cube.jpg\";s:14:\"slider_image_2\";s:64:\"http:\/\/localhost:8888\/wp-content\/uploads\/2017\/11\/jello-boats.jpg\";s:14:\"slider_title_1\";s:14:\"This is heaven\";s:17:\"slider_subtitle_1\";s:43:\"Where are your gelatinous dreams come true!\";s:17:\"slider_subtitle_2\";s:14:\"Dive right in!\";s:18:\"slider_button_text\";s:16:\"Don't click this\";s:12:\"header_image\";s:68:\"http:\/\/localhost:8888\/wp-content\/uploads\/2017\/11\/rasberry-jellow.jpg\";s:17:\"header_image_data\";O:8:\"stdClass\":5:{s:13:\"attachment_id\";i:38;s:3:\"url\";s:68:\"http:\/\/localhost:8888\/wp-content\/uploads\/2017\/11\/rasberry-jellow.jpg\";s:13:\"thumbnail_url\";s:76:\"http:\/\/localhost:8888\/wp-content\/uploads\/2017\/11\/rasberry-jellow-150x150.jpg\";s:6:\"height\";i:720;s:5:\"width\";i:1280;}}",
     ".label": "theme-settings"
 }
